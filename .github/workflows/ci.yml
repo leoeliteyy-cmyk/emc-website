@@ -31,4 +31,3 @@ jobs:
         run: npm run build
       - name: Audit production dependencies
         run: npm audit --omit=dev
-
